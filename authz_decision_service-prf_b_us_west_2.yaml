@@ -3,5 +3,5 @@ redis:
     host: clustercfg.authzcache-b-redis-qa-primary.5w0nf3.usw2.cache.amazonaws.com
     port: 6379
   writer:
-    host: clustercfg.authzcache-b-redis-qa-primary.5w0nf3.usw2.cache.amazonaws.com
+    host: cluster-2.q6dpwo.clustercfg.usw2.cache.amazonaws.com
     port: 6379
