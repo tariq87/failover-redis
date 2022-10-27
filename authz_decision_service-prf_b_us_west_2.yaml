@@ -1,7 +1,7 @@
 redis:
   reader:
-    host: cluster-2.q6dpwo.clustercfg.usw2.cache.amazonaws.com
+    host: cluster-1.mu9jon.clustercfg.use1.cache.amazonaws.com
     port: 6379
   writer:
-    host: cluster-1.mu9jon.clustercfg.use1.cache.amazonaws.com
+    host: cluster-2.q6dpwo.clustercfg.usw2.cache.amazonaws.com
     port: 6379
